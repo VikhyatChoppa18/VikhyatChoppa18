@@ -46,6 +46,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venkatachoppa18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<img src="https://github-profile-trophy.vercel.app/?username=vikhyatchoppa18&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=5&row=1&no-bg=true&title=Commits%2CFollowers%2CStars%2CRepositories%2CExperience" alt="GitHub Trophies" />
 ##  Latest Tweet
 [![](https://gtce.itsvg.in/api?username=venkatachoppa18)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
