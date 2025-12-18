@@ -1,6 +1,6 @@
 # <p align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alighn="center">,  I'm Vikhyat</p>
 
-#### <p align="center">A passionate data science enthusiast</p>
+#### <p align="center">A passionate AI/ML entusiast</p>
 
 
 
